@@ -1,0 +1,38 @@
+[
+  {
+    "Album Title": "Lover",
+    "Artist": "Taylor Swift",
+    "Tracks": [
+      "I Forgot That You Existed",
+      "Cruel Summer",
+      "False God",
+      "Death by a Thousand Cuts",
+      "You Need to Calm Down"
+    ],
+    "Year Released": 2019
+  },
+  {
+    "Album Title": "Waking the Fallen",
+    "Artist": "Avenged Sevenfold",
+    "Tracks": [
+      "Unholy Confessions",
+      "Chapter Four",
+      "Radian Eclipse",
+      "Second Heartbeat",
+      "And All Things Will End"
+    ],
+    "Year Released": 2003
+  },
+  {
+    "Album Title": "My World 2.0",
+    "Artist": "Justin Bieber",
+    "Tracks": [
+      "Baby",
+      "Somebody to Love",
+      "Runaway Love",
+      "Never Let You Go",
+      "U Smile"
+    ],
+    "Year Released": 2010
+  }
+]
